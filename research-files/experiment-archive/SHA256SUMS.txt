@@ -1,0 +1,14 @@
+529d83898d5a0376779cc10de0f41b4a9db3965c67110c3c2d15c52341200fe6  Aegis-Experiment-001.zip
+5382b6d65da669e94801cf7239e809de484eabc76594dffb21cdd602e271f982  Aegis-Experiment-002.zip
+2ff29e4250d21b2dc69d892febab4a2c07ecec88886a74777866f1055cb2aaac  Aegis-Experiment-003-Causal-Divergence.zip
+e8e4bf8fafcdb9a01ff9915f2a20153ded8077cdfaaf461cfa625223b1202974  Aegis-Experiment-003-v0.2-Replication.zip
+4a7738076565732ed142ddd9f328a6cb62d4908070a57ec86665666e2c90f05c  Aegis-Experiment-004-Cross-Model.zip
+59573eaa8c5846dd3e3423499cb39df0b17cd7cf8f35b2ac5f8a56770114f021  Aegis-Experiment-004B-Terra.zip
+f190dfa9523dd7d7594a6a7fe9141f1373d5be2ee5b2e91fbc461dff93245954  Aegis-Experiment-004C-Luna.zip
+14e9f67d5e621d1ab43dfd72da7b50ab6b5fe995ddc847ddbf018da74eeb19f1  Aegis-Experiment-004D-R-Sol-Max-Fixed-Judge.zip
+f326972d1cce0e29718f29cdd50827f3e16ae85ca1e94b191cd18f761f3b8a46  Aegis-Experiment-004D-R2-Sol-Max-16K-Gate.zip
+f751b18a76d8b96affaa5b43aaab918e5d231a6af375e9bd410f2f01bd9f1078  Aegis-Experiment-004D-Sol-Max.zip
+32fb3b4dad4dfa34587455d62991b67b3185e37cdaf2a1184017ece52621e6c1  Aegis-Experiment-004E-Astra-Max-16K-Gate.zip
+6a90b19f0f6777776230e63796b76f72017496828767dd3c9d15f894906a9924  Aegis-Experiment-004E-R-Astra-Max-16K-All.zip
+7c7b02f9a373ad730dca14e0b3258a73cda957a97ad605e8eda4a815317e95c5  Aegis-Experiment-005A-Hell-State-Gap-Audit-Astra-Max-v0.1.zip
+75db7c2fa1c6cff91b5715760bd563c8b9cf94cc2d970fdd44e00cc5a9fd45a9  Aegis-Experiment-005B-Draft-0.5-Repair-Audit-v0.1.zip
