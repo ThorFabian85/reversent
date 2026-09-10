@@ -1,7 +1,0 @@
-{
-  "provider": "openai",
-  "model": "YOUR_MODEL_ID",
-  "conditions": "ABC",
-  "temperature": 0.0,
-  "trials": 1
-}
