@@ -23,3 +23,10 @@ The scorer key is intentionally **not** included.
 ## Status language
 
 The site deliberately describes Aegis as **unvalidated research**. Experiment 001 is protocol/harness ready, but live scored results are not claimed.
+
+
+## v2.3 preview changes
+- Published exact 005B raw results archive: `Aegis-Experiment-005B-Results-20260909-232236.zip`
+- Results archive SHA-256: `4ecdd5d769d189962bb189d632f20dab346da01bb920403f583f2a887d8640de`
+- Removed editor-only conversation archive notes.
+- Added dedicated `#top` anchor and clickable REVERSENT logo links site-wide.
