@@ -31,4 +31,3 @@ The site deliberately describes Aegis as **unvalidated research**. Experiment 00
 - Removed editor-only conversation archive notes.
 - Added dedicated `#top` anchor and clickable REVERSENT logo links site-wide.
 - Added the public Experiment Archive with 14 preserved experiment folders and SHA-256 verification.
-- 
