@@ -30,3 +30,5 @@ The site deliberately describes Aegis as **unvalidated research**. Experiment 00
 - Results archive SHA-256: `4ecdd5d769d189962bb189d632f20dab346da01bb920403f583f2a887d8640de`
 - Removed editor-only conversation archive notes.
 - Added dedicated `#top` anchor and clickable REVERSENT logo links site-wide.
+- Added the public Experiment Archive with 14 preserved experiment folders and SHA-256 verification.
+- 
