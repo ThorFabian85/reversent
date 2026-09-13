@@ -1,4 +1,4 @@
-# Reversent Research — v4.4
+# Reversent Research — v4.5
 
 A complete redesign of the supplied v3.0 cinematic preview, inspired by the visual pacing of OpenAI’s Astra launch page.
 
@@ -6,17 +6,24 @@ A complete redesign of the supplied v3.0 cinematic preview, inspired by the visu
 
 Public site: [Reversent Research](https://thorfabian85.github.io/reversent/).
 
-This repository contains the v4.4 website source. GitHub Pages publishes the `main` branch through the repository’s existing configuration.
+This repository contains the approved v4.5 website. GitHub Pages publishes the `main` branch through the repository’s existing configuration.
 
 Extract this ZIP, then open `index.html` in your browser. The site uses ordinary HTML, CSS and JavaScript. No installation or build command is needed. All research downloads work from the extracted folder.
 
-For the separate self-contained preview, open `Reversent-Interactive-Preview-v4.4.html`. It includes all 11 website pages. The complete research downloads live in this ZIP.
+For the separate self-contained preview, open `Reversent-Interactive-Preview-v4.5.html`. It includes all 11 website pages. The complete research downloads live in this ZIP.
 
 ## Update the existing GitHub Pages site
 
 Upload the contents of this folder into your existing repository root. Replace the matching HTML files, `styles.css` and `script.js`; preserve the `assets`, `conversations` and `research-files` directories. Keep `.nojekyll` in the root. If Pages is already enabled, the update publishes through its existing configuration.
 
 The separate downloadable package and preview contain the same website design. The preview file is a standalone deliverable and is not required by GitHub Pages.
+
+## v4.5 header refinements
+
+- Restored Home in place of Overview, with a thin blue outline, in the desktop and mobile navigation on all 11 pages.
+- Reduced the sticky chapter bar to 44px at every breakpoint; it was previously 72px on desktop.
+- Kept the existing chapter links, active indicator, fixed main header and automatic anchor clearance.
+- The interactive ring, page content and research downloads are unchanged.
 
 ## v4.4 finishing details
 

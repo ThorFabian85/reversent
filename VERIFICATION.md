@@ -1,4 +1,12 @@
-# Verification — Reversent v4.4
+# Verification — Reversent v4.5
+
+## v4.5 header refinements
+
+Source checks confirm two Home navigation links on each of the 11 pages, all targeting index.html. Both desktop and mobile Home links have an outlined pill style. The chapter bar is 44px at all four height declarations, and its links fill the bar without the previous vertical padding. Existing anchor offsets use the updated height variable.
+
+All content after the main header, the ring script, and the assets and research downloads are unchanged from v4.4. The self-contained v4.5 preview JavaScript passes its syntax check. Browser rendering and physical-device testing remain unverified. The site owner approved this revision after reviewing the downloadable website; deployment status is recorded in the repository’s GitHub Actions runs.
+
+## Previous v4.4 checks
 
 Completed source and file checks:
 
@@ -17,7 +25,7 @@ Validation limit: the environment’s browser security policy blocked local HTTP
 
 The self-contained interactive preview is supplied separately so the completed design can be opened and inspected directly. The checks in this document were completed on the v4.4 package before publication; deployment status is recorded separately in the repository’s GitHub Actions runs.
 
-## Responsive source audit
+## Responsive source audit — historical v4.4 dimensions
 
 These checks evaluate CSS declarations, not rendered element dimensions.
 
